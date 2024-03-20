@@ -1,5 +1,5 @@
 {
-  "name": "cropperjs",
+  "name": "sub100cropper",
   "description": "JavaScript image cropper.",
   "version": "1.5.13",
   "main": "dist/cropper.common.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengyuanchen/cropperjs.git"
+    "url": "git+https://github.com/emersonrodrigod/cropperjs"
   },
   "keywords": [
     "image",
@@ -54,14 +54,10 @@
     "web"
   ],
   "author": {
-    "name": "Chen Fengyuan",
-    "url": "https://chenfengyuan.com/"
+    "name": "Sub100",
+    "url": "https://sub100.com.br/"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fengyuanchen/cropperjs/issues"
-  },
-  "homepage": "https://fengyuanchen.github.io/cropperjs",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
